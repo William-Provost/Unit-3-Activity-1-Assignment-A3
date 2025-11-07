@@ -8,7 +8,7 @@
 // initialize number
 const NUMBER: number = 9;
 
-// INPUT - none
+// INPUT -none
 
 // PROCESS & OUTPUT
 // display multiplication table  
