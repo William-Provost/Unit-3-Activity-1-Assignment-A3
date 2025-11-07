@@ -13,7 +13,7 @@ func main() {
 	// initialize number as a constant
 	const NUMBER int = 9
 
-	// INPUT - none
+	// INPUT -none
 
 	// PROCESS & OUTPUT
 	// display multiplication table
